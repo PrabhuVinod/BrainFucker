@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.prabhu.brainfucker.BFInterpreter { <init>(...); }
+
+# onClick res/layout/activity_bfinterpreter.xml #generated:69
+-keepclassmembers class * { *** cpy(...); }
+
+# onClick res/layout/activity_bfinterpreter.xml #generated:61
+-keepclassmembers class * { *** interprete(...); }
+
